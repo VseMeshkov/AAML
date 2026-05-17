@@ -13,23 +13,6 @@ venv/
 .env/
 .venv/
 
-# LaTeX (paper)
-paper/*.aux
-paper/*.log
-paper/*.out
-paper/*.toc
-paper/*.pdf
-paper/*.bbl
-paper/*.blg
-paper/*.synctex.gz
-paper/*.fls
-paper/*.fdb_latexmk
-paper/*.lof
-paper/*.lot
-paper/*.nav
-paper/*.snm
-paper/*.vrb
-
 # IDE
 .vscode/
 .idea/
