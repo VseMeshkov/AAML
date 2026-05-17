@@ -339,7 +339,3 @@ This maps high substitution scores (frequent, conservative) → small distances.
 ## License
 
 This project is provided for educational and research purposes.
-
-## Author
-
-Proj_bioinform — ML project на тему "Функции расстояния (метрики) на множестве аминокислот 20×20"
